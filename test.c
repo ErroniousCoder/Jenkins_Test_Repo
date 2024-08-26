@@ -1,3 +1,6 @@
+
+//This is a C file
+
 #include<stdio.h>
 
 
